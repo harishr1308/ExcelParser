@@ -1,0 +1,64 @@
+2016-10-16 11:35:13,130 INFO  [main] root              (  Parser.java:29)     - folder : ./DataSource/EM-Excel/EM-Excel
+2016-10-16 11:35:13,132 DEBUG [main] root              (  Parser.java:31)     - Files : 
+2016-10-16 11:35:13,135 DEBUG [main] root              (  Parser.java:35)     - Centrina.xls Searched
+2016-10-16 11:35:13,135 DEBUG [main] root              (  Parser.java:38)     - Excel : Centrina.xls
+2016-10-16 11:35:13,678 ERROR [main] root              (  Parser.java:109)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:35:13,678 DEBUG [main] root              (  Parser.java:35)     - .~lock.Access.xls# Searched
+2016-10-16 11:35:13,679 DEBUG [main] root              (  Parser.java:44)     - Not an Excel File
+2016-10-16 11:35:13,679 DEBUG [main] root              (  Parser.java:35)     - E4Ever.xls Searched
+2016-10-16 11:35:13,679 DEBUG [main] root              (  Parser.java:38)     - Excel : E4Ever.xls
+2016-10-16 11:35:13,730 ERROR [main] root              (  Parser.java:109)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:35:13,730 DEBUG [main] root              (  Parser.java:35)     - Duon.xls Searched
+2016-10-16 11:35:13,730 DEBUG [main] root              (  Parser.java:38)     - Excel : Duon.xls
+2016-10-16 11:35:13,762 ERROR [main] root              (  Parser.java:109)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:35:13,763 DEBUG [main] root              (  Parser.java:35)     - Beta.xls Searched
+2016-10-16 11:35:13,763 DEBUG [main] root              (  Parser.java:38)     - Excel : Beta.xls
+2016-10-16 11:35:13,789 ERROR [main] root              (  Parser.java:109)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:35:13,790 DEBUG [main] root              (  Parser.java:35)     - Access.xls Searched
+2016-10-16 11:35:13,790 DEBUG [main] root              (  Parser.java:38)     - Excel : Access.xls
+2016-10-16 11:35:13,812 ERROR [main] root              (  Parser.java:109)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:35:13,812 DEBUG [main] root              (  Parser.java:35)     - newGameSetupFile_Final.xls Searched
+2016-10-16 11:35:13,813 DEBUG [main] root              (  Parser.java:38)     - Excel : newGameSetupFile_Final.xls
+2016-10-16 11:35:13,861 ERROR [main] root              (  Parser.java:109)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:36:44,743 INFO  [main] root              (  Parser.java:29)     - folder : ./DataSource/EM-Excel/EM-Excel
+2016-10-16 11:36:44,747 DEBUG [main] root              (  Parser.java:31)     - Files : 
+2016-10-16 11:36:44,749 DEBUG [main] root              (  Parser.java:35)     - Centrina.xls Searched
+2016-10-16 11:36:44,749 DEBUG [main] root              (  Parser.java:38)     - Excel : Centrina.xls
+2016-10-16 11:36:45,089 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:36:45,090 DEBUG [main] root              (  Parser.java:35)     - .~lock.Access.xls# Searched
+2016-10-16 11:36:45,090 DEBUG [main] root              (  Parser.java:44)     - Not an Excel File
+2016-10-16 11:36:45,090 DEBUG [main] root              (  Parser.java:35)     - E4Ever.xls Searched
+2016-10-16 11:36:45,090 DEBUG [main] root              (  Parser.java:38)     - Excel : E4Ever.xls
+2016-10-16 11:36:45,139 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:36:45,139 DEBUG [main] root              (  Parser.java:35)     - Duon.xls Searched
+2016-10-16 11:36:45,139 DEBUG [main] root              (  Parser.java:38)     - Excel : Duon.xls
+2016-10-16 11:36:45,169 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:36:45,169 DEBUG [main] root              (  Parser.java:35)     - Beta.xls Searched
+2016-10-16 11:36:45,169 DEBUG [main] root              (  Parser.java:38)     - Excel : Beta.xls
+2016-10-16 11:36:45,190 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:36:45,191 DEBUG [main] root              (  Parser.java:35)     - Access.xls Searched
+2016-10-16 11:36:45,191 DEBUG [main] root              (  Parser.java:38)     - Excel : Access.xls
+2016-10-16 11:36:45,208 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:36:45,208 DEBUG [main] root              (  Parser.java:35)     - newGameSetupFile_Final.xls Searched
+2016-10-16 11:36:45,208 DEBUG [main] root              (  Parser.java:38)     - Excel : newGameSetupFile_Final.xls
+2016-10-16 11:36:45,240 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:40:24,235 INFO  [main] root              (  Parser.java:29)     - folder : ./DataSource/EM-Excel/EM-Excel
+2016-10-16 11:40:24,237 DEBUG [main] root              (  Parser.java:31)     - Files : 
+2016-10-16 11:40:24,239 DEBUG [main] root              (  Parser.java:35)     - Centrina.xls Searched
+2016-10-16 11:40:24,239 DEBUG [main] root              (  Parser.java:38)     - Excel : Centrina.xls
+2016-10-16 11:40:24,282 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:40:24,283 DEBUG [main] root              (  Parser.java:35)     - E4Ever.xls Searched
+2016-10-16 11:40:24,283 DEBUG [main] root              (  Parser.java:38)     - Excel : E4Ever.xls
+2016-10-16 11:40:24,283 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:40:24,283 DEBUG [main] root              (  Parser.java:35)     - Duon.xls Searched
+2016-10-16 11:40:24,283 DEBUG [main] root              (  Parser.java:38)     - Excel : Duon.xls
+2016-10-16 11:40:24,284 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:40:24,284 DEBUG [main] root              (  Parser.java:35)     - Beta.xls Searched
+2016-10-16 11:40:24,284 DEBUG [main] root              (  Parser.java:38)     - Excel : Beta.xls
+2016-10-16 11:40:24,285 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:40:24,285 DEBUG [main] root              (  Parser.java:35)     - Access.xls Searched
+2016-10-16 11:40:24,285 DEBUG [main] root              (  Parser.java:38)     - Excel : Access.xls
+2016-10-16 11:40:24,287 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-16 11:40:24,287 DEBUG [main] root              (  Parser.java:35)     - newGameSetupFile_Final.xls Searched
+2016-10-16 11:40:24,288 DEBUG [main] root              (  Parser.java:38)     - Excel : newGameSetupFile_Final.xls
+2016-10-16 11:40:24,288 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)

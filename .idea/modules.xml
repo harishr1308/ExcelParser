@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poiparser.iml" filepath="$PROJECT_DIR$/.idea/modules/poiparser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poiparser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/poiparser_main.iml" group="poiparser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poiparser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/poiparser_test.iml" group="poiparser" />
+    </modules>
+  </component>
+</project>
