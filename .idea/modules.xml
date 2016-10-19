@@ -2,9 +2,9 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poiparser.iml" filepath="$PROJECT_DIR$/.idea/modules/poiparser.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poiparser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/poiparser_main.iml" group="poiparser" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/poiparser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/poiparser_test.iml" group="poiparser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExcelParser.iml" filepath="$PROJECT_DIR$/.idea/modules/ExcelParser.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExcelParser_main.iml" filepath="$PROJECT_DIR$/.idea/modules/ExcelParser_main.iml" group="ExcelParser" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ExcelParser_test.iml" filepath="$PROJECT_DIR$/.idea/modules/ExcelParser_test.iml" group="ExcelParser" />
     </modules>
   </component>
 </project>

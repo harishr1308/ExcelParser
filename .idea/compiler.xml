@@ -19,8 +19,8 @@
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
-      <module name="poiparser_main" target="1.5" />
-      <module name="poiparser_test" target="1.5" />
+      <module name="ExcelParser_main" target="1.5" />
+      <module name="ExcelParser_test" target="1.5" />
     </bytecodeTargetLevel>
   </component>
 </project>

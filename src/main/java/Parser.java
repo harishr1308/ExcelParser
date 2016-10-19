@@ -36,8 +36,8 @@ public class Parser
                 if ((file.isFile() && file.getName().endsWith(".xls")) || (file.isFile() && file.getName().endsWith(".xlsx")))
                 {
                     Log.logger.debug("Excel : "+file.getName());
-//                    ExcelParser(file);
-                    SampleExcelParser(file);
+                    ExcelParser(file);
+//                    SampleExcelParser(file);
                 }
                 else
                 {
@@ -69,45 +69,45 @@ public class Parser
             Log.logger.error("Exception : "+ e.getMessage());
         }
     }
-    public static void SampleExcelParser(File file)
-    {
-        try
-        {
-            FileInputStream inputStream = new FileInputStream(file.getAbsoluteFile());
-            Workbook workbook = new XSSFWorkbook(inputStream);
-            Sheet firstSheet = workbook.getSheetAt(0);
-            Iterator<Row> iterator = firstSheet.iterator();
-            while(iterator.hasNext())
-            {
-                Row nextRow = iterator.next();
-                Iterator<Cell> cellIterator = nextRow.cellIterator();
-                while (cellIterator.hasNext())
-                {
-                    Cell cell = cellIterator.next();
-                    switch (cell.getCellType())
-                    {
-                        case Cell.CELL_TYPE_STRING:
-                            System.out.print(cell.getStringCellValue());
-                            break;
-                        case Cell.CELL_TYPE_BOOLEAN:
-                            System.out.print(cell.getBooleanCellValue());
-                            break;
-                        case Cell.CELL_TYPE_NUMERIC:
-                            System.out.print(cell.getNumericCellValue());
-                            break;
-                        case Cell.CELL_TYPE_BLANK:
-                            break;
-                    }
-                    System.out.print(" - ");
-                }
-                System.out.println();
-            }
-            workbook.close();
-            inputStream.close();
-        }
-        catch (Exception e)
-        {
-            Log.logger.error("Exception : "+e.getMessage());
-        }
-    }
+//    public static void SampleExcelParser(File file)
+//    {
+//        try
+//        {
+//            FileInputStream inputStream = new FileInputStream(file.getAbsoluteFile());
+//            Workbook workbook = new XSSFWorkbook(inputStream);
+//            Sheet firstSheet = workbook.getSheetAt(0);
+//            Iterator<Row> iterator = firstSheet.iterator();
+//            while(iterator.hasNext())
+//            {
+//                Row nextRow = iterator.next();
+//                Iterator<Cell> cellIterator = nextRow.cellIterator();
+//                while (cellIterator.hasNext())
+//                {
+//                    Cell cell = cellIterator.next();
+//                    switch (cell.getCellType())
+//                    {
+//                        case Cell.CELL_TYPE_STRING:
+//                            System.out.print(cell.getStringCellValue());
+//                            break;
+//                        case Cell.CELL_TYPE_BOOLEAN:
+//                            System.out.print(cell.getBooleanCellValue());
+//                            break;
+//                        case Cell.CELL_TYPE_NUMERIC:
+//                            System.out.print(cell.getNumericCellValue());
+//                            break;
+//                        case Cell.CELL_TYPE_BLANK:
+//                            break;
+//                    }
+//                    System.out.print(" - ");
+//                }
+//                System.out.println();
+//            }
+//            workbook.close();
+//            inputStream.close();
+//        }
+//        catch (Exception e)
+//        {
+//            Log.logger.error("Exception : "+e.getMessage());
+//        }
+//    }
 }

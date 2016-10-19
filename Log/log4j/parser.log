@@ -62,3 +62,5 @@
 2016-10-16 11:40:24,287 DEBUG [main] root              (  Parser.java:35)     - newGameSetupFile_Final.xls Searched
 2016-10-16 11:40:24,288 DEBUG [main] root              (  Parser.java:38)     - Excel : newGameSetupFile_Final.xls
 2016-10-16 11:40:24,288 ERROR [main] root              (  Parser.java:110)     - Exception : The supplied data appears to be in the OLE2 Format. You are calling the part of POI that deals with OOXML (Office Open XML) Documents. You need to call a different part of POI to process this data (eg HSSF instead of XSSF)
+2016-10-19 13:12:47,822 INFO  [main] root              (  Parser.java:29)     - folder : ./DataSource
+2016-10-19 13:12:47,825 DEBUG [main] root              (  Parser.java:31)     - Files : 
